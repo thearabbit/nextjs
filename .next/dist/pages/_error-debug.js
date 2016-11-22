@@ -4,31 +4,31 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _getPrototypeOf = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/babel-runtime/core-js/object/get-prototype-of');
+var _getPrototypeOf = require('/Users/theara/Desktop/nextjs/node_modules/babel-runtime/core-js/object/get-prototype-of');
 
 var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);
 
-var _classCallCheck2 = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/babel-runtime/helpers/classCallCheck');
+var _classCallCheck2 = require('/Users/theara/Desktop/nextjs/node_modules/babel-runtime/helpers/classCallCheck');
 
 var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
 
-var _createClass2 = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/babel-runtime/helpers/createClass');
+var _createClass2 = require('/Users/theara/Desktop/nextjs/node_modules/babel-runtime/helpers/createClass');
 
 var _createClass3 = _interopRequireDefault(_createClass2);
 
-var _possibleConstructorReturn2 = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/babel-runtime/helpers/possibleConstructorReturn');
+var _possibleConstructorReturn2 = require('/Users/theara/Desktop/nextjs/node_modules/babel-runtime/helpers/possibleConstructorReturn');
 
 var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);
 
-var _inherits2 = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/babel-runtime/helpers/inherits');
+var _inherits2 = require('/Users/theara/Desktop/nextjs/node_modules/babel-runtime/helpers/inherits');
 
 var _inherits3 = _interopRequireDefault(_inherits2);
 
-var _react = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/react/react.js');
+var _react = require('/Users/theara/Desktop/nextjs/node_modules/react/react.js');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _ansiHtml = require('/Users/theara/Desktop/nextjs/node_modules/next/node_modules/ansi-html/index.js');
+var _ansiHtml = require('/Users/theara/Desktop/nextjs/node_modules/ansi-html/index.js');
 
 var _ansiHtml2 = _interopRequireDefault(_ansiHtml);
 
